@@ -1,3 +1,4 @@
 # Working video of HR Anlytics Dashboard
-[Watch the video](HR_Analytics.mkv)
+<iframe width="560" height="315" src="HR_Analytics.mkv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 

@@ -1,3 +1,3 @@
 # Working video of HR Anlytics Dashboard
-[Watch the video](C:\Users\Lenovo\Videos\HR_Analytics.mkv)
+[Watch the video](HR_Analytics.mkv)
 
